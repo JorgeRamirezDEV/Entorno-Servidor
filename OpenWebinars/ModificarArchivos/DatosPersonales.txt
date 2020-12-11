@@ -1,0 +1,6 @@
+Nombre: Jorge 
+Apellidos: Ramirez 
+Edad: 22 
+DNI: 11111111T 
+Teléfono: 656656656 
+Correo: jorgeramirezinstituto@gmail.com 

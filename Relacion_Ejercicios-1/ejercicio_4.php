@@ -1,0 +1,45 @@
+<?php
+    echo "<table border='1' widht='200'";
+    echo "<tr>";
+        echo "<td> Uno </td>";
+        echo "<td> One </td>";
+    echo "</tr>";
+    echo "<tr>";
+        echo "<td> Dos </td>";
+        echo "<td> Two </td>";
+    echo "</tr>";
+    echo "<tr>";
+        echo "<td> Tres </td>";
+        echo "<td> Three </td>";
+    echo "</tr>";
+    echo "<tr>";
+        echo "<td> Cuatro </td>";
+        echo "<td> Four </td>";
+    echo "</tr>";
+    echo "<tr>";
+        echo "<td> Cinco </td>";
+        echo "<td> Five </td>";
+    echo "</tr>";
+    echo "<tr>";
+        echo "<td> Seis </td>";
+        echo "<td> Six </td>";
+    echo "</tr>";
+    echo "<tr>";
+        echo "<td> Siete </td>";
+        echo "<td> Seven </td>";
+    echo "</tr>";
+    echo "<tr>";
+        echo "<td> Ocho </td>";
+        echo "<td> Eight </td>";
+    echo "</tr>";
+    echo "<tr>";
+        echo "<td> Nueve </td>";
+        echo "<td> Nine </td>";
+    echo "</tr>";
+    echo "<tr>";
+        echo "<td> Diez </td>";
+        echo "<td> Ten </td>";
+    echo "</tr>";
+    echo "</table>";
+    
+?>
